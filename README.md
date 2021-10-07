@@ -23,7 +23,7 @@ Part 3: opinion dynamics <br>
 The SoBigData.eu research infrastructure can be accessed [here](https://sobigdata.d4science.org/).
 
 #### Useful Information
-To download the contents of this directory from a jupyter notebook please run the following snippet:
+To download the contents of the repository from a jupyter notebook please run the following snippet:
 
 ```
 import requests, zipfile, io
@@ -32,3 +32,4 @@ r = requests.get("https://cutt.ly/sai_acai_material")
 z = zipfile.ZipFile(io.BytesIO(r.content))
 z.extractall("./")
 ```
+The code will create a folder in the current directory containing the material needed to run the tutorial.
