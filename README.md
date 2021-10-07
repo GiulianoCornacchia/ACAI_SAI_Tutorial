@@ -13,8 +13,10 @@ ___
 **End:** 11th October 2021 16.00 <br>
 **Material:** [GitHub repository](https://github.com/GiulianoCornacchia/ACAI_SAI_Tutorial)
 
-**Description:**
-////
+**Description:**<br>
+Part 1: - <br>
+Part 2: - <br>
+Part 3: - <br>
 
 #### Computational Resources
 The SoBigData.eu research infrastructure can be accessed [here](https://sobigdata.d4science.org/).
