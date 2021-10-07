@@ -22,3 +22,13 @@ Part 3: opinion dynamics <br>
 #### Computational Resources
 The SoBigData.eu research infrastructure can be accessed [here](https://sobigdata.d4science.org/).
 
+#### Useful Information
+To download the contents of this directory from a jupyter notebook please run the following snippet:
+
+```
+import requests, zipfile, io
+
+r = requests.get("https://cutt.ly/sai_acai_material")
+z = zipfile.ZipFile(io.BytesIO(r.content))
+z.extractall("./")
+```
