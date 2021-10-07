@@ -14,9 +14,9 @@ ___
 **Material:** [GitHub repository](https://github.com/GiulianoCornacchia/ACAI_SAI_Tutorial)
 
 **Description:**<br>
-Part 1: - <br>
-Part 2: - <br>
-Part 3: - <br>
+Part 1: human mobility <br>
+Part 2: spreading processes <br>
+Part 3: opinion dynamics <br>
 
 #### Computational Resources
 The SoBigData.eu research infrastructure can be accessed [here](https://sobigdata.d4science.org/).
