@@ -11,6 +11,7 @@ ___
 **Instructors:** [Virginia Morini](https://kdd.isti.cnr.it/people/morini-virginia), [Valentina Pansanella](https://kdd.isti.cnr.it/people/pansanella-valentina), and [Giuliano Cornacchia](https://kdd.isti.cnr.it/people/cornacchia-giuliano).<br>
 **Start:** 11th October 2021 14.00 <br>
 **End:** 11th October 2021 16.00 <br>
+**Location:** Forum Digital Technologies, Salzufer 6, Berlin <br>
 **Material:** [GitHub repository](https://github.com/GiulianoCornacchia/ACAI_SAI_Tutorial)
 
 **Description:**<br>
