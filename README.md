@@ -20,3 +20,4 @@ Part 3: opinion dynamics <br>
 
 #### Computational Resources
 The SoBigData.eu research infrastructure can be accessed [here](https://sobigdata.d4science.org/).
+
