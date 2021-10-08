@@ -25,7 +25,7 @@ The SoBigData.eu research infrastructure can be accessed [here](https://sobigdat
 #### Useful Information
 To download the contents of the repository from a jupyter notebook please run the following snippet:
 
-```
+```python
 import requests, zipfile, io
 
 r = requests.get("https://cutt.ly/sai_acai_material")
